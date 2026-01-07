@@ -45,6 +45,18 @@
 
 ---
 
+##  Achievements & Recognition
+
+- **25+ Years Experience** in professional photography
+- **2000+ Talents Trained** in photography techniques
+- **500+ Projects Delivered** successfully
+- **100+ Brand Partners** worldwide
+- **Founder of Tawseeq** - platform integrating photography with marketing
+- **International Recognition** for photography excellence
+- **Award-Winning Portfolio** across multiple categories
+
+---
+
 ##  Features
 
 ###  Core Features
@@ -378,17 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-##  Achievements & Recognition
 
-- **25+ Years Experience** in professional photography
-- **2000+ Talents Trained** in photography techniques
-- **500+ Projects Delivered** successfully
-- **100+ Brand Partners** worldwide
-- **Founder of Tawseeq** - platform integrating photography with marketing
-- **International Recognition** for photography excellence
-- **Award-Winning Portfolio** across multiple categories
-
----
 
 <div align="center">
 
